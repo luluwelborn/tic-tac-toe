@@ -1,0 +1,16 @@
+/*css will go here*/
+
+table	{
+	border: 1px solid black;
+	padding: 20px;
+	text-align: center;
+	width: 300px;
+	height: 300px;
+}
+
+
+tbody	{
+	border: 1px solid black;
+	width: 300px;
+	height: 300px;
+}
